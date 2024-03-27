@@ -1,0 +1,28 @@
+
+
+div.info {
+    text-align: center;
+    background-color: rgb(114, 114, 114);
+}
+
+
+#cont {
+    color: #8400ff;
+}
+
+
+div.nomefoto {
+    text-align: center;
+    background-color: #8400ff;
+    color:white;
+    
+}
+
+
+h2 {
+    color: red;
+}
+
+p {
+    font-size: 25px;
+}
